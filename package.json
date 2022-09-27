@@ -1,0 +1,25 @@
+{
+    "name": "crous-menu-watcher",
+    "version": "1.0.0",
+    "description": "A bot that monitors Crous menu and sends it to a Discord webhook",
+    "main": "index.js",
+    "scripts": {
+        "start": "node index.js"
+    },
+    "dependencies": {
+        "axios": "^0.27.2",
+        "cheerio": "1.0.0-rc.12",
+        "node-cron": "^3.0.2",
+        "simple-discord-webhooks": "^2.1.0"
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/LockBlock-dev/crous-menu-watcher.git"
+    },
+    "author": "LockBlock-dev",
+    "license": "MIT",
+    "bugs": {
+        "url": "https://github.com/LockBlock-dev/crous-menu-watcher/issues"
+    },
+    "homepage": "https://github.com/LockBlock-dev/crous-menu-watcher#readme"
+}

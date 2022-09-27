@@ -1,0 +1,8 @@
+{
+    "discordWebhookURL": "https://discord.com/api/webhooks/XXXXXXXXXXX",
+    "cronDelay": "0 10 */1 * *",
+    "ownerId": "DISCORD_ID",
+    "endpoint": "https://www.example.com/getMenu.php",
+    "crousId": "rXXX",
+    "crousList": {}
+}
